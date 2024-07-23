@@ -35,9 +35,9 @@ I am a third-year Computer Science student, passionate about competitive coding,
 
 ## 📫 How to reach me: ...
 - 📧 Email: [Zouhairadnani46@gmail.com](mailto:Zouhairadnani46@gmail.com)  
-- 📱 Mob: +447459546352
+- 📱 Mob: +447833426680
 - 📢 Linkden: https://www.linkedin.com/in/badr-adnani/
-- 🌐 Webpage: https://badradnani.com/
+- 🌐 Webpage: https://marrakesh-beats.web.app/
 
 
 <!-- TODO: Update this section with more details later 
