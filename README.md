@@ -1,6 +1,6 @@
 # ✨Badr Adnani✨ 👨‍💻
 ## 👋 About Me
-I am a third-year Computer Science student, passionate about competitive coding, machine learning, and troubleshooting. Fast learner, organized with outstanding communication, collaboration, and leadership, interested in Mechatronics, Full Stack Development, Data Structures, and Algorithms. In my new role, I am looking to put my skills to use working with a range of IT systems and processes.
+I am a  Computer Science graduate, passionate about competitive coding, machine learning, and troubleshooting. Fast learner, organized with outstanding communication, collaboration, and leadership, interested in Mechatronics, Full Stack Development, Data Structures, and Algorithms. In my new role, I am looking to put my skills to use working with a range of IT systems and processes.
 
 
 ---
@@ -73,9 +73,7 @@ I am a third-year Computer Science student, passionate about competitive coding,
 - Employed technologies like **HTML, CSS, JavaScript, PHP, MySQL, AJAX, AWS, React**.
 - Created a private search engine and hosted the website on **WordPress and AWS**.
 -->
-<!-- TODO<details>
- <summary><h3>👨‍💻 Badr's Coding Journey</h3></summary>
-   -->
+
 
 
   
